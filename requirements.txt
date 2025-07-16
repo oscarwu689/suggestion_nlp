@@ -1,0 +1,5 @@
+fastapi = v0.116.1
+pydantic = v2.11.7
+uvicorn = v0.35.0s
+jieba = v0.42.1
+pytest = v8.4.1
